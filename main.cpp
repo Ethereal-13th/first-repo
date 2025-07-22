@@ -3,5 +3,5 @@
 
 MainFunction
 
->>>>>>> test
+
 int main() {}
